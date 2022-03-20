@@ -1,0 +1,11 @@
+{
+    "name": "Shikoku ken",
+    "website": "https://shikokuken.medium.com/",
+    "description": "Shikoku ken is a meme token. This is a BEP20 Token. The goal of our team is to make this meme token a useful token with many uses.",
+    "explorer": "https://bscscan.com/token/0x26FE183fA90c75F98C2D2735e593C24743f9f302",
+    "type": "BEP20",
+    "symbol": "SHIKU",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x26FE183fA90c75F98C2D2735e593C24743f9f302"
+}
